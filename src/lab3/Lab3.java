@@ -15,6 +15,7 @@ public class Lab3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Bonjour");
         // TODO code application logic here
     }
     
